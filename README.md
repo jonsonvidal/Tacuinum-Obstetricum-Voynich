@@ -16,7 +16,7 @@ Nuestro diccionario v3.2 interpreta de forma operativa la **sección botánica-f
 
 ### ¿De dónde proviene?
 
-- **Origen geográfico:** Trentino - Dolomitas italianas. Prueba: yk- = Calx/Locus = prado calizo 900-1500m vs xol- = orilla lago glacial 600m. t-test t=17,14 p=2,66e-18 separación altitud real.
+- **Origen geográfico:** Trentino - Dolomitas italianas. Norte de los alpes Prueba: yk- = Calx/Locus = prado calizo 900-1500m vs xol- = orilla lago glacial 600m. t-test t=17,14 p=2,66e-18 separación altitud real.
 - **Fecha:** 1420 aprox. Calendario menstrual con hiem = invierno conserva fría sombra norte + fase lutea.
 - **Escuela:** Medicina galénica medieval. Humores: qok- = Frigidus frío azul (kain) vs qot- = Calidus cálido rojo (or).
 
