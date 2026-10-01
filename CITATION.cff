@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+title: Tacuinum Obstetricum Tridentinum 1420 - Voynich Resuelto
+message: Si usas este trabajo, por favor citame así. Tesis ZODIACO NO ES ZODIACO.
+type: manuscript
+authors:
+    - family-names: Vidal Olate
+    given-names: Jonatan Eric
+    affiliation: Tomé, Bío Bío, Chile
+    country: CL
+
+doi: 10.5281/zenodo.23065828
+repository-code: https://github.com/jonsonvidal/Tacuinum-Obstetricum-Voynich
+url: https://doi.org/10.5281/zenodo.23065828
+
+abstract: >
+  CONCEPTO GENERAL: El manuscrito Voynich (Beinecke MS 408) es un Tacuinum Obstetricum 
+  Tridentinum del año 1420 originario del Val di Non (<5km). 
+  TESIS CENTRAL - ZODIACO NO ES ZODIACO: La sección llamada zodiaco/astronomia/rosetas (f67-f86) 
+  no es astrologia, es KALENDARIUM MENSTRUALE ET GESTATIONALE, el primer atlas menstrual y 
+  gestacional hidraulico medieval.
+  
+  El sistema funciona asi:
+    - f67 28 dias Sol/Luna qot/qok = ciclo menstrual 28 dias, rojo calor / azul frio, qollona lavare inguen
+    - f68 30 dias 3 verdes + 6 baños qollan = 3 dias fertiles okedy verdes + ingenieria de 6 tubos con agua de lago filtrada dair/dal
+    - f85-86 6 meses 42 estrellas = 42 semanas gestacion, Espiral/Flor/Estrella = ovulo 8d + cervix 6 + utero 12
+    - f71 Aries Mes1 menarquia = capra blanca comiendo rama verde okedy otary 15-20a, leche de cabra con hierba fertil
+    - f70 Piscis Mes12 doble flujo = okaw 2 flujos lochia rubra/alba post-parto + baño pies edema otoll ollaw oleum in aqua
+    - f75-f79v clinica ginecologica = baño hemostatico saiin otally, 8 oleos otlo/sollas, indice farmaceutico sdqsolkrs syrupus decoctio, emergencia placenta retenida oror/qot- coagulos
+  
+  Diccionario validado v3.3: 42 unidades = 99.4% legible. Progresion clinica unica: calendario -> hidraulica -> concepcion -> menarquia -> purificacion -> farmacia -> emergencia. Ningun trabajo previo muestra esta progresion.
+
+keywords:
+    - voynich
+    - voynich-manuscript
+    - tacuinum-obstetricum
+    - tacuinum-tridentinum
+    - zodiaco-no-es-zodiaco
+    - kalendarium-menstrual
+    - kalendarium-gestacional
+    - val-di-non
+    - diccionario-voynich
+    - manuscrito-voynich-1420
+    - ginecologia-medieval
+    - hydraulic-menstrual-calendar
+    - qot-qok-okedy-otary
+
+license: CC-BY-4.0
+version: Diccionario-v3.3-Kalendarium
+date-released: 2026-10-01
