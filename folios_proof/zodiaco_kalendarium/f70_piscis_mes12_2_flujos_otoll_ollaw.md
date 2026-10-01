@@ -19,6 +19,12 @@ Zodíaco Piscis - 2 peces
 **Traducción Latín XV:**
 Mensis Piscis de fluxu duplici. Duo pisces okaw=fluxus duplex ruber et albus post partum. Quindecim nymphae cum pelvibus parvis pro pedibus edema otoll ollaw. Aqua frigida qok- et oleum ollaw, filtrata dair/dal, herba viridis okedy pro detumescere. Quadraginta dies chey purificationis.
 
+**Traducción Español XV:**
+Mes Piscis: sobre el doble flujo post-parto, rojo con escamas (coágulos) y blanco con agua fría. Quince días con baño de pies en tina para edema. Aceite en agua. Estrella = día de flujo. Mancha verde = aplica aceite de matriz.
+
+**Traducción English XV:**
+Month Pisces: on double postpartum flow, red with scales (clots) and white with cold water. Fifteen days with foot bath in tub for edema. Oil in water. Star = flow day. Green patch = apply womb oil.
+
 **Validación v3.3:** okaw=2 flujo, otoll=baño útero, ollaw=oleum, dair/dal=filtrada, qok-=frío, okedy=hierba, chey=día
 
 **Conexión clínica:** f71 Aries Mes1 menarquia inicia ciclo -> f70 Piscis Mes12 termina ciclo con puerperio = calendario cerrado 12 meses 28/30 días = ZODIACO NO ES ZODIACO es Kalendarium.
