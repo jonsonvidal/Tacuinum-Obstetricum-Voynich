@@ -19,4 +19,10 @@ Zodíaco Aries - signo astrológico
 **Traducción Latín XV:**
 Mensis Aries de menarchia. Capra comedens herbam viridem okedy, lac caprae coctum otoll pro utero juvenili otary 15-20 annos. Quinque dies eey cum fluxu rubeo oror, decem dies cum balneo frigido qok- et oleo ollaw. Stella magna=dies fertilis futura.
 
+**Traducción Español XV:**
+Mes Aries: sobre menarquia. Cabra comiendo hierba verde, leche de cabra cocida en tina para útero juvenil 15-20 años. Cinco días de flujo con sangrado rojo, diez días con baño frío y aceite. Estrella grande = día fértil futuro.
+
+**Traducción English XV:**
+Month Aries: on menarche. Goat eating green herb, goat milk cooked in tub for juvenile uterus 15-20y. Five days flow with red bleeding, ten days with cold bath and oil. Big star = future fertile day.
+
 **Validación v3.3:** okar=capra, okedy=hierba verde, otary/otol/otor edad, otoll=baño útero, ollaw=oleum in aqua, qok-/qot- frío/caliente, eey=flujo, chey=día, xor-=prado/lago
